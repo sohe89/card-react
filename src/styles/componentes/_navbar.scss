@@ -1,0 +1,7 @@
+$Color-grey: rgba(215,215,215,1);
+
+nav {
+    &.bg-dark {
+        background-color: $Color-grey!important;
+    }
+}
